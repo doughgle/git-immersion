@@ -1,1 +1,1 @@
-puts "hello gitimmersion"
+puts "hello #{ARGV.first}!"
